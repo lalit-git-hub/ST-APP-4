@@ -1,0 +1,10 @@
+numpy
+opencv-python
+easyocr
+openpyxl
+streamlit
+pdf2image
+Pillow
+pypdfium2
+pypdf2
+pandas
